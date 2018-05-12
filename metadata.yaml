@@ -1,0 +1,36 @@
+_repo: Catholic-Colonization-in-MinnesotaRevised-Edition_42187
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Ireland, John
+    birthdate: 1838
+    deathdate: 1918
+    gutenberg_agent_id: '41564'
+    url: http://www.gutenberg.org/2009/agents/41564
+covers:
+- cover_type: archival
+  image_path: 42187-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Catholic Colonization Bureau
+    alias: Catholic Colonization Bureau of Minnesota
+    gutenberg_agent_id: '41563'
+    url: http://www.gutenberg.org/2009/agents/41563
+description: ''
+gutenberg_issued: '2013-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42187'
+  lccn: '44021519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- Minnesota'
+- !lcc 'HD'
+- !lcsh 'Catholics -- Minnesota'
+title: 'Catholic Colonization in Minnesota
+
+  Revised Edition'
+url: http://www.gutenberg.org/ebooks/42187
